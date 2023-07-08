@@ -1,4 +1,6 @@
 # StorageMeter
 Tests the storage devices for writing and reading speed using multiple threads
-This is for fun, the real tests are not the onse that could tell you the exact cpeed of your drive :)
-Please enjoy to add the conditions and more argumented tests!
+
+This is for fun, these tests could not tell you the exact speed of your drive :) But it can show the possibility to write/read data in multiple threads.
+
+Please enjoy to add more tests with specific conditions.
